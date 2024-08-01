@@ -1,0 +1,9 @@
+pydub
+matplotlib
+librosa
+protobuf
+scikit-learn
+tensorflow==2.10.0
+tensorflow-gpu==2.10.0
+numpy==1.26.4
+numba==0.59.1
